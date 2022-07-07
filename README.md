@@ -1,2 +1,2 @@
 # Frontend_Mentor
-various project from www.frontendmentor.io
+various projects from www.frontendmentor.io
