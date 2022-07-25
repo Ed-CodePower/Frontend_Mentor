@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Ed-CodePower/Frontend_Mentor/tree/main/InteractiveRatingComponent]
-- Live Site URL: [[Add live site URL here](https://ed-codepower.github.io/MyProjects/InteractiveRatingComponent/)]
+- Live Site URL: [https://ed-codepower.github.io/MyProjects/InteractiveRatingComponent/]
 
 ## My process
 
