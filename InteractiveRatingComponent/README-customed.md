@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot/Screenshot(rating_desktop).jpg)
-![](./screenshot/Screenshot(thankyou_desktop.jpg)
+![](./screenshot/Screenshot(thankyou_desktop).jpg)
 
 ### Links
 
